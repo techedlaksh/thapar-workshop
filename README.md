@@ -12,21 +12,25 @@
     - Analyze
     - Act
 ### 5. Components of DS
+    - Data Types
+    - Analytics Classes
+    - Execution Models
+    - Learning Models
 ### 6. Models
-    - Descriptive Modelling
+    #### - Descriptive Modelling
         1. PCA
         2. k-Means
-    - Predictive Modelling
+    #### - Predictive Modelling
         1. kNN
         2. Decision Trees
         3. Random Forest
         4. Neural Networks
 ### 7. Code for Practical Example
-   - Reading Data
-   - Exploratory Data Analysis (EDA)
-   - Preparing Data
-   - Classifier
-   - Results Comparison
+    - Reading Data
+    - Exploratory Data Analysis (EDA)
+    - Preparing Data
+    - Classifier
+    - Results Comparison
    
     
         
